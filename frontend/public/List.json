@@ -1,0 +1,81 @@
+[
+    {
+        "id":1,
+        "name": "Story Book",
+        "title":"lorem ipsum lorem ipsum lorem ipsum lorem",
+        "price":70,
+        "category": "Free",
+        "image":"https://img.freepik.com/premium-vector/book-with-tree-cover-that-says-boy_730620-682071.jpg?w=740"
+
+    },
+    {
+        "id":2,
+        "name": "Food Book",
+        "title":"lorem ipsum lorem ipsum lorem ipsum lorem",
+        "price":90,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-vector/cooking-classes-poster-design_1322-35.jpg?t=st=1718871810~exp=1718875410~hmac=d39cc57f241d176a8feb551dd39695c74b4cca3cb4bc5ccbc5f0574887ff3e64&w=740"
+    }, {
+        "id":3,
+        "name": "Fiction Book",
+        "title":"lorem ipsum lorem ipsum lorem ipsum lorem",
+        "price":60,
+        "category": "Fiction",
+        "image":"https://img.freepik.com/free-photo/magic-fairy-tale-book-illustration-with-astronaut-exploring-planet_23-2150133000.jpg?t=st=1718871871~exp=1718875471~hmac=5fff202b3055e1487fcf3ba46be58d717cd53883e7a9ff8e46e8e326437b70e3&w=740"
+    }, {
+        "id":4,
+        "name": "Story Book",
+        "title":"lorem ipsum lorem ipsum lorem ipsum lorem",
+        "price":0,
+        "category": "Comic",
+        "image":"https://img.freepik.com/free-vector/opened-book-with-various-dinosaurs-cartoon_1308-103360.jpg?t=st=1718870967~exp=1718874567~hmac=ed7494701920ec37b26965dca38b9fdc9bef987fb8717570834c107c1622c4b5&w=740"
+
+    }, {
+        "id":5,
+        "name": "Story Book",
+        "title":"lorem ipsum lorem ipsum lorem ipsum lorem",
+        "price":0,
+        "category": "Ethics",
+        "image":"https://img.freepik.com/free-vector/opened-book-with-various-dinosaurs-cartoon_1308-103360.jpg?t=st=1718870967~exp=1718874567~hmac=ed7494701920ec37b26965dca38b9fdc9bef987fb8717570834c107c1622c4b5&w=740"
+
+    }, {
+        "id":6,
+        "name": "Story Book",
+        "title":"lorem ipsum lorem ipsum lorem ipsum lorem",
+        "price":0,
+        "category": "Science",
+        "image":"https://img.freepik.com/free-vector/opened-book-with-various-dinosaurs-cartoon_1308-103360.jpg?t=st=1718870967~exp=1718874567~hmac=ed7494701920ec37b26965dca38b9fdc9bef987fb8717570834c107c1622c4b5&w=740"
+
+    }, {
+        "id":7,
+        "name": "Story Book",
+        "title":"lorem ipsum lorem ipsum lorem ipsum lorem",
+        "price":0,
+        "category": "Maths",
+        "image":"https://img.freepik.com/free-vector/opened-book-with-various-dinosaurs-cartoon_1308-103360.jpg?t=st=1718870967~exp=1718874567~hmac=ed7494701920ec37b26965dca38b9fdc9bef987fb8717570834c107c1622c4b5&w=740"
+
+    }, {
+        "id":8,
+        "name": "Comedy Book",
+        "title":"lorem ipsum lorem ipsum lorem ipsum lorem",
+        "price":30,
+        "category": "Comedy",
+        "image":"https://img.freepik.com/free-vector/stand-up-comedy-banner-with-red-curtains-background_1308-84986.jpg?t=st=1718871479~exp=1718875079~hmac=24bfe1224bda823a1e5604de38a85d807420c7bcdcd39061c1369a37b390c7ee&w=740"
+    }, {
+        "id":9,
+        "name": "Entertainment Book",
+        "title":"lorem ipsum lorem ipsum lorem ipsum lorem",
+        "price":50,
+        "category": "Entertainment",
+        "image":"https://img.freepik.com/free-vector/cinema-concept_1284-12713.jpg?t=st=1718871305~exp=1718874905~hmac=02a1654ac156ada9bc2ea3cd3534a42133df9883ac182b0db43ce5a67d9b546e&w=740"
+
+    }, {
+        "id":10,
+        "name": "Sports Book",
+        "title":"lorem ipsum lorem ipsum lorem ipsum lorem",
+        "price":20,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg?t=st=1718871245~exp=1718874845~hmac=9352c873ee6dd4843e7ac7755a34cfb81f251ed3de2e3cf197d2cbe8315d6135&w=740"
+
+    }
+]
